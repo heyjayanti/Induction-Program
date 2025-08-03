@@ -82,7 +82,20 @@ The break felt refreshing  walking around campus, eating cucumbers, and buying a
 The auditorium session was the highlight. From the senior's song to the honest discussions about scholarships, health, and GitHub — it all felt like we were being gently introduced to this new world we are stepping into. There was a lot to absorb, but in a good way.
 
 
+#Day 3 – Induction Program 
+ ## key points
+ -Interactive session with Dr. Jaswinder Singh
+ -“Universal Human Values - I” by Dr. Priya Darshni
+ -Motivational Talk by Chief Guest S. Gurcharan Singh Grewal (Secretary, SGPC)
+ 
+ ###Interactive session with Dr. Jaswinder Singh
+ Known for JaswinS Lab on Wheels, he turned complex Physics & Math concepts into engaging, hands-on experiences. His lively experiments sparked curiosity and simplified learning for all students.We also had live slive expeiments which was crazy to see and very interesting.
+ 
+###“Universal Human Values - I” by Dr. Priya Darshni
+Through this thoughtful session, students explored life values, emotional intelligence, and the deeper purpose of education, laying a foundation for holistic development. she gave us a assignment we have to fill our daily schedule details for example how much time we take im phyiscal facility,relationship,traveling study colege etc.
 
+###Motivational Talk by Chief Guest S. Gurcharan Singh Grewal (Secretary, SGPC)
+A strong message of encouragement and inspiration was delivered, urging students to embrace responsibility, discipline, and the importance of making meaningful contributions to society.
 
 
 
