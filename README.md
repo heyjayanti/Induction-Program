@@ -98,12 +98,30 @@ Through this thoughtful session, students explored life values, emotional intell
 ### Motivational Talk by Chief Guest S. Gurcharan Singh Grewal (Secretary, SGPC)
 A strong message of encouragement and inspiration was delivered, urging students to embrace responsibility, discipline, and the importance of making meaningful contributions to society.
 
+# Day 4
+##Key points
+-Lecture by priyadarshini mam
+-Session by causmic club
+-Peer-to-Peer sessions and interactive classes by senior students
 
+### Lecture by priyadarshini mam
+The day began with an insightful expert lecture by Dr. Priyadarshini on Universal Human Values in the auditorium, guiding us towards a more conscious and value-based life. 
+She explained the difference between temporary pleasures and continuous happiness, emphasising how inner harmony and right understanding are key to a meaningful life.
 
+We explored the concept of self and body needs, learning how over-dependence on external factors leads to emotional instability.
+Dr. Priyadarshini encouraged us to reflect on our personal aspirations, relationships, and natural acceptance, helping us realise that happiness comes from responsibility and right conduct.
 
+The session included real-life examples and interactive discussions which helped us connect these values to our daily lives.
 
+We also participated in a short self-reflection exercise, identifying our concerns and understanding how our preconditioning shapes our worries.
 
+### Session by causmic club
 
+Following the lecture, we had an engaging session conducted by the Causmic Club, a student-led initiative formed by our seniors. They introduced us to the club’s mission and activities, creating a friendly and welcoming environment. The Causmic Club team also showcased their vibrant initiatives, giving freshers a glimpse into creativity, leadership, and innovation. Through interactive discussions, they encouraged us to participate in various upcoming events and projects, promoting teamwork and out of the box thinking. It was an inspiring session that highlighted the importance of student led communities in shaping our overall development.
+
+###Peer-to-Peer sessions and interactive classes by senior students
+
+Later in the day, we had Peer-to-Peer sessions and interactive classes led by our seniors, which added a friendly and practical touch to the orientation. One of the seniors sang a song for us, creating a light and cheerful atmosphere. Two seniors also gave us a helpful session on laptops  explaining everything from specifications, performance, brand comparisons, and budget options. It was highly informative and helped many of us feel more confident about making smart choices for our academic needs.
 
 
 
