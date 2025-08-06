@@ -123,5 +123,39 @@ Following the lecture, we had an engaging session conducted by the Causmic Club,
 
 Later in the day, we had Peer-to-Peer sessions and interactive classes led by our seniors, which added a friendly and practical touch to the orientation. One of the seniors sang a song for us, creating a light and cheerful atmosphere. Two seniors also gave us a helpful session on laptops  explaining everything from specifications, performance, brand comparisons, and budget options. It was highly informative and helped many of us feel more confident about making smart choices for our academic needs.
 
+# Day 5
+
+Today was the first time it truly felt like college. The day started with a really engaging interactive session with our seniors, focused on C++ programming. It wasn't just theory they walked us through the basics, explained core concepts like loops, variables, and logic building in a very relatable way. What made it more interesting was their friendly attitude; they shared not just programming tips but also their real struggles, mistakes, and how they overcame them. It felt less like a lecture, and more like a conversation with someone who’s just a few steps ahead.
+
+The session made C++ feel less intimidating. Many of us asked questions, even the ones who are usually silent, and it created a nice flow of back-and-forth. Seniors also gave us some helpful advice on how to approach coding from day one  like practicing small problems daily, building logic slowly, and not running behind syntax perfection.
+
+After that, our professors took over and we moved into learning BEEE (Basic Electrical and Electronics Engineering). It was our first formal exposure to this subject, and the professors made sure to introduce the foundational topics with clarity. They gave real-life examples to explain how electrical concepts connect to modern devices we use every day. The pace was a bit fast, but the explanations made it manageable.
+
+Overall, today felt like a true bridge between school and college. The interaction with seniors gave motivation, and the classes made it clear – the real journey has begun. I'm slowly getting used to the rhythm of lectures, interactions, and self study. It’s a mix of excitement and pressure, but I’m learning to balance both.
+
+# Day 6
+
+## 9:30 AM – 10:30 AM | Mathematics Class
+The day kicked off with a really enjoyable Math session. The teacher made it super fun by introducing us to various math visual tools that we can use on our phones. It was interactive and opened up a new way of seeing mathematical concepts in a more visual and engaging way.
+
+## 10:30 AM – 11:30 AM | C++ with Seniors
+Once again, our kind seniors took over and continued helping us with C++ basics. They patiently cleared doubts, walked us through foundational topics, and made sure no one felt left behind. It felt more like a mentorship session than a class.
+
+## 11:30 AM – 12:30 PM | Break Time
+We had a much-needed break to relax, recharge, and chat with friends. A small breather in the middle of a packed day.
+
+## 12:30 PM – 1:00 PM | Motivational Talk by Faculty
+A professor addressed us all, sharing the legacy and reputation of GNDEC College. He highlighted how lucky we are to be a part of such an institution and encouraged us to make the most of the opportunities available.
+
+## 1:30 PM – 3:30 PM | CML Lecture on SWAYAM
+In the afternoon, CML department gave us a detailed session about the SWAYAM program – its benefits, structure, and how we can use it to earn extra credits and learn valuable skills. They also guided us through the registration process. It was insightful and fun, especially since it's something that directly affects our academic freedom.
+
+## 4:00 PM | Day Wrap-Up
+After a productive and energetic day, we packed up and headed home.
+
+
+
+
+
 
 
