@@ -153,6 +153,17 @@ In the afternoon, CML department gave us a detailed session about the SWAYAM pro
 ## 4:00 PM | Day Wrap-Up
 After a productive and energetic day, we packed up and headed home.
 
+# Day 7
+
+Today was quite an engaging day at college. We started off with C++ classes conducted by our seniors. They patiently walked us through the concepts, explaining them in a way that felt simple yet interesting. Most of it was a revision of the basics, but the way they shared examples and real-life applications made even the familiar topics feel fresh. I liked how approachable they were, and it felt less like a formal lecture and more like a friendly discussion.
+
+After that, we moved on to our chemistry class with our regular teacher. Honestly, it turned out to be the highlight of the day. The topic we covered was taught in such a clear and lively manner that I found myself genuinely enjoying the subject. The explanations were detailed, and the way our teacher connected theory to practical examples kept everyone’s attention. I left the class feeling like I had actually learned something new and meaningful. Overall, it was a day that reminded me why I enjoy being here.
+
+# Day 8
+
+Our classes began at 9:00 AM today and the first session lasted until 10:30 AM. It was on BEEE (Basic Electrical and Electronics Engineering), and the lecture was genuinely engaging. Ma’am started by walking us through the syllabus, giving us a clear idea of what to expect in the coming weeks. We made neat and organized notes, which I think will be really helpful later. She also guided us through solving a few numerical problems related to force, work, joules, and other basic concepts. It was a good mix of theory and practice, and I felt more confident about the topic by the end of the class.
+
+From 10:30 AM to 12:00 PM, we had an interactive session on coding with our sir. Instead of just teaching us syntax or code directly, he spoke about the bigger picture—how companies actually select students, what they look for beyond just technical knowledge, and the common flaws students make during preparation. He also gave us valuable advice on the mindset and skills we need to develop if we want to stand out. The session felt more like a mentor guiding us about life and career rather than just a class, which made it even more impactful.
 
 
 
